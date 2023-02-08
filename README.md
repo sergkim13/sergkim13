@@ -24,14 +24,14 @@ Python backend developer (beginner), have been studying Python backend developme
 Looking for a job.
 
 ### Hard skills:
-- Languages: Python 3 (including FastApi);
+- Languages: Python 3 (including FastApi, SQLAlchemy, Pydantic);
 - Test tools: Pytest;
 - Datbases: PostgreSQL, Redis;
 - VCS: Git;
 - CI/CD: GitHub Actions;
 - Container technology: Docker, Docker compose;
 - Packaging/Dependency management: Poetry; 
-- Other: basic knowledge of HTML, CSS, HTTP.
+- Other: basic knowledge of HTML, CSS, HTTP, Celery, RabbitMQ.
 
 ### Soft skills:
 - Attention to detail;
