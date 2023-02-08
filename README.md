@@ -5,11 +5,11 @@
 <h3 align="center">Python-developer from Russia 🇷🇺</h3>
 
 
-#### About me:
+### About me:
 Python backend developer (beginner), have been studying Python backend development for a year.
 Looking for a job.
 
-#### Hard skills:
+### Hard skills:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
@@ -32,12 +32,11 @@ Looking for a job.
 - Packaging/Dependency management: Poetry; 
 - Other: basic knowledge of HTML, CSS, HTTP.
 
-#### Soft skills:
+### Soft skills:
 - Attention to detail;
 - Team player;
 - Problem-solving skills;
 - Self-organized and result-oriented.
-#### :hammer_and_wrench: Languages and Tools:
 
 <!--
 **sergkim13/sergkim13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
