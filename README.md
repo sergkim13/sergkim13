@@ -5,11 +5,26 @@
 <h3 align="center">Python-developer from Russia 🇷🇺</h3>
 
 
-About me:
+#### About me:
 Python backend developer (beginner), have been studying Python backend development for a year.
 Looking for a job.
 
-### :hammer_and_wrench: Languages and Tools:
+#### Hard skills:
+- Languages: Python 3 (including FastApi);
+- Test tools: Pytest;
+- Datbases: PostgreSQL, Redis;
+- VCS: Git;
+- CI/CD: GitHub Actions;
+- Container technology: Docker, Docker compose;
+- Packaging/Dependency management: Poetry; 
+- Other: basic knowledge of HTML, CSS, HTTP.
+
+#### Soft skills:
+- Attention to detail;
+- Team player;
+- Problem-solving skills;
+- Self-organized and result-oriented.
+#### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
