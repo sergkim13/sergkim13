@@ -3,13 +3,6 @@
 </div>
 <h1 align="center">Hi there, I'm Sergey <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python-developer from Russia 🇷🇺</h3>
-
-
-### About me:
-Python backend developer (beginner), have been studying Python backend development for a year.
-Looking for a job.
-
-### Hard skills:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
@@ -23,6 +16,11 @@ Looking for a job.
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp; 
 </div>
 
+### About me:
+Python backend developer (beginner), have been studying Python backend development for a year.
+Looking for a job.
+
+### Hard skills:
 - Languages: Python 3 (including FastApi);
 - Test tools: Pytest;
 - Datbases: PostgreSQL, Redis;
