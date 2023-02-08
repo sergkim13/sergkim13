@@ -22,6 +22,7 @@ Looking for a job.
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp; 
 </div>
+
 - Languages: Python 3 (including FastApi);
 - Test tools: Pytest;
 - Datbases: PostgreSQL, Redis;
