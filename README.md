@@ -25,8 +25,10 @@ Python backend developer (beginner), have been studying Python backend developme
 Looking for a job.
 
 ### Hard skills:
-- Languages: Python 3 (including FastApi, SQLAlchemy, Pydantic);
-- Test tools: Pytest;
+- Languages: Python 3;
+- Frameworks: Django, DRF, FastAPI;
+- ORM: DjangoORM, SQLAlchemy;
+- Test tools: Unittes, Pytest (including mocks, monkeypatching);
 - Datbases: PostgreSQL, Redis;
 - VCS: Git;
 - CI/CD: GitHub Actions;
