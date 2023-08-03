@@ -27,7 +27,7 @@ Python backend developer, work in https://mlmedicine.ru.
 - Languages: Python 3;
 - Frameworks: Django, DRF, FastAPI;
 - ORM: DjangoORM, SQLAlchemy;
-- Test tools: Unittes, Pytest (including mocks, monkeypatching);
+- Test tools: Unittest, Pytest (including mocks, monkeypatching);
 - Datbases: PostgreSQL, Redis;
 - VCS: Git;
 - CI/CD: GitHub Actions;
