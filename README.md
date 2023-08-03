@@ -21,8 +21,7 @@
 <hr>
 
 ### About me:
-Python backend developer (beginner), have been studying Python backend development for a year.
-Looking for a job.
+Python backend developer, work in https://mlmedicine.ru.
 
 ### Hard skills:
 - Languages: Python 3;
