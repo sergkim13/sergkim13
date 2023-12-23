@@ -21,7 +21,7 @@
 <hr>
 
 ### About me:
-Python backend developer, work in https://mlmedicine.ru.
+Python backend developer, work in [LeadHit](https://leadhit.ru)
 
 ### Hard skills:
 - Languages: Python 3;
