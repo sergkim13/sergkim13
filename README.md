@@ -21,7 +21,7 @@
 <hr>
 
 ### About me:
-Python backend developer, work in [LeadHit](https://leadhit.ru)
+Python backend developer
 
 ### Hard skills:
 - Languages: Python 3;
